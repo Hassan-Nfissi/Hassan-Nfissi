@@ -10,13 +10,15 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **exciting projects in data science**
+ 🔭 I'm passionate about **data science and AI**
  
- 🌱 I’m currently learning **Docker, FastAPI, and more**
+ 🌱 I'm currently a student at **ESI (École des Sciences de l'Information) in Rabat**
 
 💬 Ask me about **Python, Flask, SQLite... or anything [here](https://github.com/Hassan-Nfissi/Hassan-Nfissi/issues)**
 
 ⚡ Fun fact **Moroccan mint tea is not just a drink, it's a tradition!**
+</div>
+
 
 
 
