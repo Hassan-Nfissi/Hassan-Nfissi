@@ -17,7 +17,7 @@
 
 <br/>
 
-<img align="right" height="200" src="https://th.bing.com/th/id/R.cd37fa49c983ac905df0016fd5b6a2ee?rik=XYhzlatbpAHWnA&pid=ImgRaw&r=0" />
+<img align="right" height="200" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" />
 
 ###
 <h3 align="left">Connect with me:</h3>
