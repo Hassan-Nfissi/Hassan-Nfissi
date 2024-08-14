@@ -17,6 +17,10 @@ I'm a passionate IT student from Morocco, currently exploring the world of techn
 - **Data Science**: Diving deep into data analysis, machine learning, and artificial intelligence.
 - **Web Development**: Improving skills in Python, Flask, HTML, CSS, and JavaScript.
 
+## 🛠️ Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Nfissi&layout=compact&hide_title=true)
+
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassan-Nfissi&show_icons=true&hide_title=true)
