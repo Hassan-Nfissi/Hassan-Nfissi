@@ -7,6 +7,10 @@
 ###
 
 <div align="left">
+  <img src="file:///D:/english%20learning/top-langs.svg" height="30" alt="top langs logo" />
+  <img width="12" />
+  <img src="file:///D:/english%20learning/api.svg" height="30" alt="api logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
