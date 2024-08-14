@@ -1,0 +1,26 @@
+name: Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs once a day at midnight
+  workflow_dispatch:
+
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate snake animation
+        uses: platane/snk@v1
+        with:
+          github_user_name: Hassan-Nfissi
+          # You can add other options here if needed
+
+      - name: Commit snake animation
+        uses: EndBug/add-and-commit@v7
+        with:
+          add: 'output/snake.svg'
+          message: 'Update snake animation'
