@@ -17,7 +17,7 @@
 
 <br/>
 
-<img align="right" height="180" src="https://media.tenor.com/5bv_BndNtRQAAAAi/endingbrowsing.gif" />
+<img align="right" height="200" src="https://media.tenor.com/5bv_BndNtRQAAAAi/endingbrowsing.gif" />
 
 ###
 <h3 align="left">Connect with me:</h3>
