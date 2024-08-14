@@ -1,40 +1,35 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Hassan Nfissi
 
-###
+Welcome to my GitHub profile! 👋
 
-<img align="right" height="150" src="https://th.bing.com/th/id/OIP.qUzJIjChocSMt46b4Kgw2AAAAA?rs=1&pid=ImgDetMain"  />
+## About Me
 
-###
+I'm a passionate IT student from Morocco, currently exploring the world of technology and aiming to make a mark in data science. I love working on interesting projects and contributing to open-source software.
 
-<div align="left">
-  <img src="file:///D:/english%20learning/top-langs.svg" height="30" alt="top langs logo" />
-  <img width="12" />
-  <img src="file:///D:/english%20learning/api.svg" height="30" alt="api logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 🔭 Current Projects
 
-###
+- **Face Recognition System**: Working on an advanced face recognition project with a custom user interface.
+- **Chatbot for Fast Food Business**: Developing a chatbot to handle food orders efficiently on a website.
+- **Employee Absence Monitoring**: Implementing a live video streaming solution to monitor employee attendance.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 🌱 Learning
 
-###
+- **Data Science**: Diving deep into data analysis, machine learning, and artificial intelligence.
+- **Web Development**: Improving skills in Python, Flask, HTML, CSS, and JavaScript.
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassan-Nfissi&show_icons=true&hide_title=true)
+
+## 📫 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/hassan-nfissi/)
+- [Twitter](https://twitter.com/your-twitter-handle)
+- Email: hassan.nfissi@example.com
+
+## 📄 Latest Blog Posts
+
+- [Exploring Data Science Trends in 2024](https://medium.com/@hassan-nfissi/exploring-data-science-trends-in-2024)
+- [Building Chatbots with Python](https://medium.com/@hassan-nfissi/building-chatbots-with-python)
+
+Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas. Happy coding! 🚀
