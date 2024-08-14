@@ -20,6 +20,13 @@
 <img align="right" height="200" src="https://th.bing.com/th/id/R.cd37fa49c983ac905df0016fd5b6a2ee?rik=XYhzlatbpAHWnA&pid=ImgRaw&r=0" />
 
 ###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/hassan-nfissi-9b784428b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abderrazzak nfissi" height="30" width="40" /></a>
+<a href="https://web.facebook.com/hassan.nfissi.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nfissi âbđerrzaķ" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hassan_nfissi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abderrazzak_nfissi" height="30" width="40" /></a>
+</p>
+<h3 align="left">Tools:</h3>
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
@@ -51,20 +58,6 @@
 
 ###
 
-<div align="left">
-    <a href="https://www.instagram.com/hassan_nfissi/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-    </a>
-    <a href="https://www.linkedin.com/in/hassan-nfissi-9b784428b/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-    </a>
-    <a href="https://web.facebook.com/hassan.nfissi.3/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
-    </a>
-    <a href="https://your-portfolio.com" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="35" alt="Portfolio" />
-    </a>
-</div>
 
 <hr/>
 
