@@ -17,7 +17,7 @@
 
 <br/>
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" />
+<img align="right" height="180" src="https://apexx77.github.io/website/images/pro.gif" />
 
 ###
 <h3 align="left">Connect with me:</h3>
