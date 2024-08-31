@@ -11,7 +11,6 @@
 <div align="center">
     🔭 I'm passionate about **data science and AI** <br/>
     🌱 I'm currently a student at **ESI (École des Sciences de l'Information) in Rabat** <br/>
-    💬 Ask me about **Python, Flask, SQLite... or anything [here](https://github.com/Hassan-Nfissi/Hassan-Nfissi/issues)** <br/>
     ⚡ Fun fact: **Moroccan mint tea is not just a drink, it's a tradition!**
 </div>
 
