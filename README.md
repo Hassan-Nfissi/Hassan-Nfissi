@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-    🔭 I'm passionate about **data science and AI** <br/>
+    🔭 I'm passionate about **software engineering and devops ** <br/>
     🌱 I'm currently a student at **ESI (École des Sciences de l'Information) in Rabat** <br/>
     ⚡ Fun fact: **Moroccan mint tea is not just a drink, it's a tradition!**
 </div>
