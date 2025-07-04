@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=300&section=header&text=Hassan%20Nfissi&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=🚀%20Software%20Engineer%20%26%20DevOps%20Enthusiast%20🚀&descAlignY=51&descAlign=50&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=300&section=header&text=Hassan%20Nfissi&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=🚀%20Software%20Engineer%20%26%20DevOps%20Enthusiast%20🚀&descAlignY=51&descAlign=50&descSize=20" />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hassan-Nfissi.Hassan-Nfissi&left_color=FF6B6B&right_color=4ECDC4&left_text=Profile%20Views" />
 </div>
 
 <div align="center">
