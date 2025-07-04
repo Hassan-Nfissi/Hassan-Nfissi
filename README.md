@@ -1,78 +1,169 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hassan-Nfissi.Hassan-Nfissi" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hassan+Nfissi!;" />
-</h1>
-
-<h3 align="center">A passionate IT student from Morocco 🇲🇦</h3>
-
-<br/>
-
+<!-- Header with animated background -->
 <div align="center">
-    🔭 I'm passionate about **software engineering and devops** <br/>
-    🌱 I'm currently a student at **ESI (École des Sciences de l'Information) in Rabat** <br/>
-    ⚡ Fun fact: **Moroccan mint tea is not just a drink, it's a tradition!**
+  <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hassan%20Nfissi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
 </div>
 
-<br/>
-
-<img align="right" height="250" src="https://media.tenor.com/5bv_BndNtRQAAAAi/endingbrowsing.gif" />
-
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hassan-nfissi-9b784428b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://web.facebook.com/hassan.nfissi.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hassan_nfissi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">🛠️ Technologies & Tools:</h3>
-
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
-    <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
-    <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-    <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" />
-    <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" />
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-    <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
-    <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
-    <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" />
-    <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" />
-    <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud" />
-    <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx" />
-    <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow" />
-    <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV" />
-    <img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="Anaconda" />
-    <img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="Jupyter" />
-    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
-    <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="PyCharm" />
-    <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA" />
-    <img src="https://skillicons.dev/icons?i=maven" height="40" alt="Maven" />
+<!-- Visitor Badge -->
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hassan-Nfissi.Hassan-Nfissi&color=0891b2&style=flat-square&logo=Github" />
 </div>
 
-<br/>
-
----
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
+<!-- Animated Typing Effect -->
 <div align="center">
-    <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Hassan-Nfissi&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
-    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Hassan-Nfissi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-    <br/>
-    <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hassan-Nfissi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=40&center=true&vCenter=true&width=800&height=100&duration=3000&pause=1000&color=0891b2&background=00000000&multiline=true&lines=🚀+Software+Engineer+%26+DevOps+Enthusiast;🎓+Computer+Science+Student+at+ESI+Rabat;☕+Powered+by+Moroccan+Mint+Tea+%26+Code" />
 </div>
 
-<br/><br/>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
+<!-- Profile Section with Cards -->
 <div align="center">
-    <h3>💫 Thanks for visiting my profile! 💫</h3>
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🌟 About Me</h3>
+        <div align="center">
+          <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200" alt="coding-gif"/>
+        </div>
+        <br/>
+        <p align="center">
+          🎯 <strong>Passionate about:</strong> Software Engineering & DevOps<br/>
+          🏫 <strong>Currently studying at:</strong> ESI (École des Sciences de l'Information) - Rabat<br/>
+          🌍 <strong>Location:</strong> Morocco 🇲🇦<br/>
+          💡 <strong>Fun fact:</strong> I believe good code is like mint tea - it gets better with time!
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🎯 Current Focus</h3>
+        <div align="center">
+          <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200" alt="focus-gif"/>
+        </div>
+        <br/>
+        <p align="center">
+          📚 <strong>Learning:</strong> Advanced DevOps & Cloud Architecture<br/>
+          🔭 <strong>Working on:</strong> Microservices & Container Orchestration<br/>
+          🌱 <strong>Growing:</strong> AI/ML Integration in Software Development<br/>
+          💻 <strong>Exploring:</strong> Cloud-Native Technologies
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Connect Section -->
+<div align="center">
+  <h2>🤝 Let's Connect & Collaborate</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/hassan-nfissi-9b784428b/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://web.facebook.com/hassan.nfissi.3/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="https://www.instagram.com/hassan_nfissi/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:hassan.nfissi@example.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
+
+<!-- Tech Stack Section -->
+<div align="center">
+  <h2>🛠️ Technology Arsenal</h2>
+  
+  <h3>💻 Programming Languages</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bash" />
+  </p>
+  
+  <h3>🔧 DevOps & Cloud</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,nginx,azure,gcp,linux" />
+  </p>
+  
+  <h3>📊 Data & AI</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=tensorflow,opencv,anaconda,jupyter" />
+  </p>
+  
+  <h3>🗄️ Databases</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" />
+  </p>
+  
+  <h3>🚀 Tools & IDEs</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea,maven" />
+  </p>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GitHub Stats Section -->
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+  
+  <div align="center">
+    <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Hassan-Nfissi&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Hassan-Nfissi&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  </div>
+  
+  <br/>
+  
+  <div align="center">
+    <img width="60%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hassan-Nfissi&layout=compact&theme=tokyonight&border_radius=10&langs_count=10&exclude_repo=github-readme-stats" alt="Top Languages" />
+  </div>
+  
+  <br/>
+  
+  <!-- GitHub Activity Graph -->
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan-Nfissi&custom_title=Hassan's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </div>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <h2>🏆 GitHub Achievements</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hassan-Nfissi&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</div>
+
+<!-- Coding Activity -->
+<div align="center">
+  <h2>💻 Weekly Coding Activity</h2>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hassan-Nfissi&theme=tokyonight&border_radius=10" alt="WakaTime Stats" />
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <h2>🐍 Watch My Contributions Get Eaten!</h2>
+  <img src="https://raw.githubusercontent.com/Hassan-Nfissi/Hassan-Nfissi/output/snake.svg" alt="Snake animation" />
+</div>
+
+<!-- Quote Section -->
+<div align="center">
+  <h2>💭 Random Dev Quote</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&animation=twinkling" />
+</div>
+
+<!-- Footer Text -->
+<div align="center">
+  <h3>✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨</h3>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Hassan-Nfissi&label=Profile%20views&color=0891b2&style=flat-square" alt="Profile Views" />
+  </p>
 </div>
