@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Hassan+Nfissi!;Software+Engineer+💻;DevOps+Enthusiast+🚀;From+Morocco+🇲🇦" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Hassan+Nfissi!;Fullstack+%2F+DevOps+Engineer+💻;Platform+Engineering+🚀;From+Morocco+🇲🇦" />
   </h1>
 </div>
 
@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=80&duration=4000&pause=1000&color=F75C7E&background=00000000&multiline=true&lines=Welcome+to+my+digital+world+🌍;I+craft+code+%26+build+dreams+✨;From+Morocco+🇲🇦+to+the+Cloud+☁️;Always+learning%2C+always+growing+🌱;Let's+build+something+amazing!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=80&duration=4000&pause=1000&color=F75C7E&background=00000000&multiline=true&lines=Software+Engineering+student+at+ESI+Rabat+🎓;Currently+interning+at+Adria+B%26T+🏦;Building+resilient%2C+observable+systems+📈;Fullstack+today%2C+Platform+Engineer+tomorrow+⚙️" />
 </div>
 
 <br/>
@@ -34,15 +34,16 @@
 const hassan = {
     name: "Hassan Nfissi",
     location: "Rabat, Morocco 🇲🇦",
-    education: "ESI - École des Sciences de l'Information",
-    passions: [
-        "Software Engineering 💻",
-        "DevOps & Cloud ☁️",
-        "Machine Learning 🤖",
-        "Open Source 🌟"
+    education: "Software Engineering, ESI Rabat (2025/2026)",
+    currentRole: "PFE Intern @ Adria Business & Technology",
+    team: "DigiTrust",
+    focus: [
+        "Fullstack: Java/Spring Boot + React/TypeScript ⚙️",
+        "Platform Engineering: Docker, Kubernetes, Terraform, Ansible 🐳",
+        "Observability: Grafana, Loki, Alloy, Prometheus 📊",
+        "Security: Keycloak, HashiCorp Vault 🔐"
     ],
-    currentFocus: "Building scalable applications",
-    motto: "Code with passion, deploy with precision",
+    motto: "Fullstack background, Platform Engineering ambition",
     funFact: "Moroccan mint tea fuels my coding sessions! 🍃"
 };
 ```
@@ -60,22 +61,15 @@ const hassan = {
 
 <br/>
 
-## 🌐 Connect & Collaborate
+## 💼 Current Mission — PFE @ Adria Business & Technology
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/hassan-nfissi-9b784428b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn" />
-  </a>
-  <a href="https://web.facebook.com/hassan.nfissi.3/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&color=1877F2" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/hassan_nfissi/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" alt="Instagram" />
-  </a>
-  <a href="mailto:hassan.nfissi@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Email" />
-  </a>
-</div>
+Building a **centralized microservices management platform** for the DigiTrust team — config, logs, and access control for a fleet of production services.
+
+- 🔧 **Stack**: React/TypeScript/Vite frontend · Spring Cloud Gateway · Spring Boot services · PostgreSQL
+- 🔐 **Identity & Secrets**: Keycloak (RBAC) + HashiCorp Vault
+- 📊 **Observability module**: Grafana Alloy → Loki → Spring Boot backend → React log center, with Ansible-driven agent provisioning
+- 🐳 Deployed via Docker Compose (17 services) on a VPS
+- ✅ Results: **-83%** log consultation time, **-90%** config access time, **-60%** MTTD, 331 unit tests, 4.25/5 user satisfaction score
 
 <br/>
 
@@ -84,22 +78,22 @@ const hassan = {
 <div align="center">
 
 ### 🔥 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,html,css,nodejs,python&theme=dark" />
 
-### ⚡ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,azure,gcp,aws,nginx,terraform&theme=dark" />
+### ⚡ DevOps & Platform Engineering
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,grafana,prometheus,jenkins,nginx&theme=dark" />
+
+### 🔐 Identity, Secrets & Cloud
+<img src="https://skillicons.dev/icons?i=azure,gcp,aws&theme=dark" />
 
 ### 🗄️ Databases & Storage
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis&theme=dark" />
-
-### 🧠 AI/ML & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda,jupyter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis&theme=dark" />
 
 ### 🛠️ Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea,maven,gradle&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,gradle&theme=dark" />
 
 ### 🐧 Systems & OS
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian&theme=dark" />
 
 </div>
 
@@ -134,7 +128,7 @@ const hassan = {
 
 <br/>
 
-## 🎯 Current Mission
+## 🎯 What I'm Building & Learning
 
 <div align="center">
   <table>
@@ -144,22 +138,22 @@ const hassan = {
         <br/>
         <strong>🌱 Currently Learning</strong>
         <br/>
-        <em>Advanced Kubernetes Architecture</em>
+        <em>Kubestronaut track — KCNA → KCSA → CKA → CKAD → CKS</em>
         <br/>
-        <em>Microservices Design Patterns</em>
+        <em>HashiCorp Terraform Associate ✅</em>
         <br/>
-        <em>AI/ML Operations (MLOps)</em>
+        <em>Advanced observability with the Grafana stack</em>
       </td>
       <td align="center" width="50%">
         <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200" alt="Building"/>
         <br/>
-        <strong>🚀 Currently Building</strong>
+        <strong>🚀 Recent Work</strong>
         <br/>
-        <em>Cloud-Native Applications</em>
+        <em>Instant transfers & OTP workflows for CIH Bank e-banking</em>
         <br/>
-        <em>DevOps Automation Tools</em>
+        <em>Centralized config/logs platform for Adria DigiTrust</em>
         <br/>
-        <em>Open Source Contributions</em>
+        <em>Prometheus/Grafana/n8n observability @ TICLab</em>
       </td>
     </tr>
   </table>
@@ -167,54 +161,29 @@ const hassan = {
 
 <br/>
 
-## 💡 Latest Blog Posts & Articles
+## 🧪 Personal Projects
 
-<div align="center">
-  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay&border=true&bg_color=0D1117&text_color=ffffff&anim_duration=2000" />
-</div>
-
-<br/>
-
-## 🌟 Fun Facts & Interests
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Morocco"/>
-        <br/>
-        <strong>🇲🇦 Moroccan Heritage</strong>
-        <br/>
-        <em>Bridging tradition with technology</em>
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="Coffee"/>
-        <br/>
-        <strong>🍃 Mint Tea Lover</strong>
-        <br/>
-        <em>Fuel for coding marathons</em>
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Open Source"/>
-        <br/>
-        <strong>🌟 Open Source Advocate</strong>
-        <br/>
-        <em>Sharing knowledge globally</em>
-      </td>
-    </tr>
-  </table>
-</div>
+- **RAG Portfolio Chatbot** — FastAPI + ChromaDB + HuggingFace embeddings, Dockerized
+- **Ocatour** — React Native + Spring Boot + Ollama/Llama 3 AI travel assistant
+- **Meal Tracker** — personal nutrition tracking app
 
 <br/>
 
-## 📞 Let's Build Something Amazing Together!
+## 🌐 Connect & Collaborate
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" alt="Collaboration"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Open+to+collaborations!+🤝;Let's+innovate+together!+💡;From+Morocco+to+the+world!+🌍;Always+ready+for+new+challenges!+⚡" />
+  <a href="https://www.linkedin.com/in/hassan-nfissi-9b784428b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="https://web.facebook.com/hassan.nfissi.3/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&color=1877F2" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/hassan_nfissi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" alt="Instagram" />
+  </a>
+  <a href="mailto:hassan.nfissi@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Email" />
+  </a>
 </div>
 
 <br/>
@@ -236,9 +205,5 @@ const hassan = {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Thanks+for+visiting!+🙏;Let's+connect+and+code!+💻;Building+the+future+together!+🚀" />
-</div>
-
-<div align="center">
-  <h3>🌟 "In a world full of algorithms, be the one who writes them!" 🌟</h3>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Thanks+for+visiting!+🙏;Let's+connect+and+build!+💻;Open+to+DevOps+%2F+Platform+Engineering+opportunities+🚀" />
 </div>
