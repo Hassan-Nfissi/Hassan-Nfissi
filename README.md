@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Hassan+Nfissi!;Fullstack+%2F+DevOps+Engineer+💻;Platform+Engineering+🚀;From+Morocco+🇲🇦" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Hassan+Nfissi!;Software+Engineer+💻;React+%2F+Java+🚀;From+Morocco+🇲🇦" />
   </h1>
 </div>
 
@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=80&duration=4000&pause=1000&color=F75C7E&background=00000000&multiline=true&lines=Software+Engineering+student+at+ESI+Rabat+🎓;Currently+interning+at+Adria+B%26T+🏦;Building+resilient%2C+observable+systems+📈;Fullstack+today%2C+Platform+Engineer+tomorrow+⚙️" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=80&duration=4000&pause=1000&color=F75C7E&background=00000000&multiline=true&lines=Software+Engineer+at+heart+💻;React+%2B+Java%2FSpring+Boot+⚙️;Solid+DevOps+base%3A+Docker%2C+K8s%2C+Jenkins+🐳;Cloud-curious%3A+AWS+%2F+Azure+☁️;AI+%2F+LLM+integration+🤖" />
 </div>
 
 <br/>
@@ -34,16 +34,12 @@
 const hassan = {
     name: "Hassan Nfissi",
     location: "Rabat, Morocco 🇲🇦",
-    education: "Software Engineering, ESI Rabat (2025/2026)",
-    currentRole: "PFE Intern @ Adria Business & Technology",
-    team: "DigiTrust",
-    focus: [
-        "Fullstack: Java/Spring Boot + React/TypeScript ⚙️",
-        "Platform Engineering: Docker, Kubernetes, Terraform, Ansible 🐳",
-        "Observability: Grafana, Loki, Alloy, Prometheus 📊",
-        "Security: Keycloak, HashiCorp Vault 🔐"
-    ],
-    motto: "Fullstack background, Platform Engineering ambition",
+    role: "Software Engineer",
+    primaryStack: ["React", "TypeScript", "Java", "Spring Boot"],
+    devops: ["Docker", "Kubernetes", "Jenkins"],
+    cloud: ["AWS", "Azure"],
+    aiIntegration: ["LLM APIs", "RAG pipelines", "AI-assisted apps"],
+    motto: "Solid fullstack foundations, DevOps reflexes, AI-curious",
     funFact: "Moroccan mint tea fuels my coding sessions! 🍃"
 };
 ```
@@ -61,33 +57,24 @@ const hassan = {
 
 <br/>
 
-## 💼 Current Mission — PFE @ Adria Business & Technology
-
-Building a **centralized microservices management platform** for the DigiTrust team — config, logs, and access control for a fleet of production services.
-
-- 🔧 **Stack**: React/TypeScript/Vite frontend · Spring Cloud Gateway · Spring Boot services · PostgreSQL
-- 🔐 **Identity & Secrets**: Keycloak (RBAC) + HashiCorp Vault
-- 📊 **Observability module**: Grafana Alloy → Loki → Spring Boot backend → React log center, with Ansible-driven agent provisioning
-- 🐳 Deployed via Docker Compose (17 services) on a VPS
-- ✅ Results: **-83%** log consultation time, **-90%** config access time, **-60%** MTTD, 331 unit tests, 4.25/5 user satisfaction score
-
-<br/>
-
 ## 🚀 Tech Arsenal
 
 <div align="center">
 
-### 🔥 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,html,css,nodejs,python&theme=dark" />
+### 💻 Software Engineering — React & Java
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,java,spring,nodejs&theme=dark" />
 
-### ⚡ DevOps & Platform Engineering
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,grafana,prometheus,jenkins,nginx&theme=dark" />
+### 🐳 DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,nginx&theme=dark" />
 
-### 🔐 Identity, Secrets & Cloud
-<img src="https://skillicons.dev/icons?i=azure,gcp,aws&theme=dark" />
+### ☁️ Cloud
+<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" />
+
+### 🤖 AI / LLM Integration
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
 
 ### 🗄️ Databases & Storage
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
 
 ### 🛠️ Development Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,gradle&theme=dark" />
@@ -128,47 +115,6 @@ Building a **centralized microservices management platform** for the DigiTrust t
 
 <br/>
 
-## 🎯 What I'm Building & Learning
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200" alt="Learning"/>
-        <br/>
-        <strong>🌱 Currently Learning</strong>
-        <br/>
-        <em>Kubestronaut track — KCNA → KCSA → CKA → CKAD → CKS</em>
-        <br/>
-        <em>HashiCorp Terraform Associate ✅</em>
-        <br/>
-        <em>Advanced observability with the Grafana stack</em>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200" alt="Building"/>
-        <br/>
-        <strong>🚀 Recent Work</strong>
-        <br/>
-        <em>Instant transfers & OTP workflows for CIH Bank e-banking</em>
-        <br/>
-        <em>Centralized config/logs platform for Adria DigiTrust</em>
-        <br/>
-        <em>Prometheus/Grafana/n8n observability @ TICLab</em>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-## 🧪 Personal Projects
-
-- **RAG Portfolio Chatbot** — FastAPI + ChromaDB + HuggingFace embeddings, Dockerized
-- **Ocatour** — React Native + Spring Boot + Ollama/Llama 3 AI travel assistant
-- **Meal Tracker** — personal nutrition tracking app
-
-<br/>
-
 ## 🌐 Connect & Collaborate
 
 <div align="center">
@@ -205,5 +151,5 @@ Building a **centralized microservices management platform** for the DigiTrust t
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Thanks+for+visiting!+🙏;Let's+connect+and+build!+💻;Open+to+DevOps+%2F+Platform+Engineering+opportunities+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Thanks+for+visiting!+🙏;Let's+connect+and+build!+💻;Open+to+new+opportunities+🚀" />
 </div>
